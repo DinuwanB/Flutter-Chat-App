@@ -34,6 +34,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 ),
                 SizedBox(
                   width: 20.0,
+                  height: 30.0,
                 ),
                 TypewriterAnimatedTextKit(
                   text: ['Chat App'],
